@@ -11,3 +11,6 @@
 
 ![WK_05_UDP_Client (Exercise 4)](https://github.com/user-attachments/assets/f01cb3e8-4285-4a90-871b-bcd1fafd35a7)
 ![WK_05_UDP_Server (Exercise 4)](https://github.com/user-attachments/assets/3d0a541a-2a87-4fdb-a5b8-4ee9084816bc)
+
+![WK_05_TCP-based chat system(Client)](https://github.com/user-attachments/assets/ce4bbfea-68af-4aa1-8dca-ea4dd80195ee)
+![WK_05_TCP-based chat system(Server)](https://github.com/user-attachments/assets/87cd7148-e2e0-4a22-82f3-5b97bbfa9750)
