@@ -1,5 +1,9 @@
 ![🚚Transport_Layer_Part_2 (1)](https://github.com/user-attachments/assets/3d4f752a-2854-4252-a9e8-b50d95491e37)
 
+## 📌 Introduction
+
+This repository was developed to support an application-based Python seminar that tackles the TCP/IP model's transport layer. As a result of improving TCP-based client-server applications, you will be applying the core networking principles that you were introduced to during the workshop.By the end of this project, participants would have worked with API data and adopted simple TCP connectivity alongside considered encryption methods that secure network interactions.
+
 ## 📝 Exercises Overview
 
 - Recognising the primary purpose of TCP within the transport layer (error recovery, flow control, in addition to connection management). 
