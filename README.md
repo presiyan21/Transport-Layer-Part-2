@@ -53,7 +53,7 @@ This repository was developed to support an application-based Python seminar tha
 ## 📁 TCP VS UDP File Speed
 ![TCP vs  UDP File Transfer](https://github.com/user-attachments/assets/7e518c8f-5771-46bb-8a25-750570f19754)
 
-### 📱 UDP Client
+### 📱 TCP Client
 ![WK_05_TCP-based chat system(Client)](https://github.com/user-attachments/assets/ce4bbfea-68af-4aa1-8dca-ea4dd80195ee)
 ### 🖥️ TCP Server
 ![WK_05_TCP-based chat system(Server)](https://github.com/user-attachments/assets/87cd7148-e2e0-4a22-82f3-5b97bbfa9750)
