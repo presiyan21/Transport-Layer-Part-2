@@ -13,13 +13,13 @@
 
 ### ✅ Prerequisites
 
-Python 3.x installed on your system.
+- Python 3.x installed on your system.
 
-Required Python libraries:
+- Required Python libraries:
 
 ```pip install cryptography requests ```
 
-A code editor (VS Code, PyCharm) or terminal.
+- A code editor (VS Code, PyCharm) or terminal.
 
 
 ![WK_05_TCP_Server (Exercise 1)](https://github.com/user-attachments/assets/cbd762a1-37b4-421f-8073-f836999ea83a)
